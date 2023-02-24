@@ -1,0 +1,7 @@
+#area of a circle
+def area_of_a_circle(r):
+    pi=22/7
+    area=pi*r*r
+    print("Area of a circle=",area)
+area_of_a_circle(7)
+area_of_a_circle(14)
