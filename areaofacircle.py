@@ -1,4 +1,3 @@
-
 #calculating the area of a circle
 p1=3.14
 r=int(input("enter the radius os the circle"))
