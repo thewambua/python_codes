@@ -16,3 +16,4 @@ elif (average>=0 and average <=39):
     print("Grade: FAIL")
 else:
     print("marks are not in the criteria")
+    
